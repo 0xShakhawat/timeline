@@ -1,0 +1,35 @@
+<============================== Row 1 (left) ==============================>
+
+    <div class="row row-1">
+      <section>
+        <i class="icon fas fa-icon"></i>
+        <div class="details">
+          <span class="title">Title of Section 1</span>
+          <span class="date">3rd Jan 2021</span>
+        </div>
+        <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
+        <div class="bottom">
+          <a href="#">Read more</a>
+          <i>- text</i>
+        </div>
+      </section>
+    </div>
+
+
+<============================== Row 2 (right) ==============================>
+
+    <div class="row row-2">
+        <section>
+          <i class="icon fab fa-icon"></i>
+          <div class="details">
+            <span class="date">Jan 2022</span>
+            <span class="title">Title of Section 2</span>
+          </div>
+          <p>Lorem ipsum dolor sit ameters consectetur adipisicing elit. Sed qui veroes praesentium maiores, sint eos vero sapiente voluptas debitis dicta dolore.</p>
+          <div class="bottom">
+            <a href="#">Read more</a>
+            <i>- text</i>
+          </div>
+        </section>
+    </div>
+
